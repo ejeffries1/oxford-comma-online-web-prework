@@ -1,7 +1,7 @@
 def oxford_comma(array)
   array.join = fruit
   if array.length == 1
-    array.join
+    return fruit
 elsif array.length == 2
   return fruit
   elsif array.length == 3
