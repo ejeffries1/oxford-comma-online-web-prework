@@ -9,6 +9,6 @@ elsif array.length == 2
   elsif array.length == 3
   return arr.insert(-10, "and ")
 elsif array.length > 3
-  return array[-3].prepend(" and")
+  return array[-1].prepend(" and")
 end
 end
