@@ -8,7 +8,7 @@ elsif array.length == 2
   return array.join(" and ")
   elsif array.length == 3
   return arr.insert(-10, "and ")
-else array.length >= 7
+else array.length > 3
   return arr.insert(-15," and")
 end
 end
