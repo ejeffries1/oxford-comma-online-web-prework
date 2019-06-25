@@ -5,7 +5,7 @@ elsif array.length == 2
   return array.join(" and ")
   elsif array.length == 3
   return array.join(", ")
-  return array.insert(-1,"and")
+  return array.insert(-1,"and ")
 else array.length > 3
   
 end
