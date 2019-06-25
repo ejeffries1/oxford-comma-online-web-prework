@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  fruit == array.insert(-1,"and")
+  fruit == array.push(",")
   if array.length == 1
     return array.join
 elsif array.length == 2
