@@ -7,6 +7,6 @@ elsif array.length == 2
   elsif array.length == 3
   arrays.insert(-10, "and ")
 else array.length >= 4
-  return arrays.insert(-14,"and ")
+  return arrays.insert(-15," and ")
 end
 end
