@@ -3,7 +3,7 @@ def oxford_comma(array)
   if array.length == 1
     return fruit
 elsif array.length == 2
-  return fruit(and)
+  return fruit(a)
   elsif array.length == 3
   arrays.insert(-10, "and ")
 else array.length > 3
