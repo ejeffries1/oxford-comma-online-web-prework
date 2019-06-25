@@ -9,6 +9,6 @@ elsif array.length == 2
   elsif array.length == 3
   return arr.insert(-10, "and ")
 else array.length > 3
-  return array.join("and")
+  return arr
 end
 end
